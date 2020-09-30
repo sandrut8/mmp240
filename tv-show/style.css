@@ -1,0 +1,38 @@
+body{
+font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.2em;
+}
+#wrapper {
+ max-height: width:1200px;
+ margin:0 auto;
+    }
+header {
+background:
+linear-gradient(90deg, rgba(0,0,0,1) 300px, rgba(255,255,255,0) 600px),
+url (images/dog.jpg) right top no-repeat,
+black;
+padding: 2em;
+}
+
+p{
+margin-bottom:1em;
+
+}
+.lead{
+color: #fff;
+width:300px
+    
+h1 img{
+max-width:100%;
+}
+
+header button{
+background-color: #C81519
+background-image: url("images/play.gif");
+background-repeat: no-repeat;
+border:none;
+color: brown;
+padding:10px;
+padding-left:25px;
+
+}
